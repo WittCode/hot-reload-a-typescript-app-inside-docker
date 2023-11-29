@@ -1,0 +1,9 @@
+0:00 - Intro
+0:07 - Project Demonstration
+0:51 - Creating a TypeScript App from Scratch
+5:39 - Creating package.json Scripts
+7:39 - Creating a TypeScript Docker Image
+9:45 - Creating a TypeScript Docker Container
+10:55 - Making the Docker Container Interactive
+11:42 - Outro
+
